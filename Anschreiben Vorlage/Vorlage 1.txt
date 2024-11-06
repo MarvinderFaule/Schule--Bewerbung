@@ -1,0 +1,41 @@
+[Dein Name]
+[Deine Adresse]
+[PLZ, Stadt]
+[Deine Telefonnummer]
+[Deine E-Mail-Adresse]
+
+[Datum]
+
+[Name des Unternehmens]
+[Abteilung]
+[Adresse des Unternehmens]
+[PLZ, Stadt]
+
+Betreff: Bewerbung um die Festanstellung als [Stellenbezeichnung]
+
+Sehr geehrte/r [Name des Ansprechpartners, falls bekannt],
+
+mit großem Interesse habe ich Ihre Stellenausschreibung für die Position als 
+[Stellenbezeichnung] auf [Quelle der Stellenanzeige] gelesen. Aufgrund meiner 
+[Erfahrungen, Qualifikationen, etc.] bin ich überzeugt, dass ich eine 
+wertvolle Ergänzung für Ihr Team sein kann.
+
+In meiner bisherigen Position bei [aktueller/letzter Arbeitgeber] habe ich
+[relevante Erfahrungen oder Erfolge, die zur ausgeschriebenen Stelle passen].
+Diese Erfahrungen haben meine Fähigkeiten in [relevante Fähigkeiten oder 
+Kenntnisse] weiterentwickelt und mir gezeigt, wie wichtig [besonderer Aspekt
+der Stelle oder des Unternehmens] ist.
+
+Besonders schätze ich [Aspekte des Unternehmens oder der Unternehmenskultur],
+und ich bin begeistert von der Möglichkeit, meine Fähigkeiten in einem so
+innovativen Umfeld einzubringen. Ich bin überzeugt, dass ich mit meiner [weitere
+relevante Eigenschaften oder Fähigkeiten] dazu beitragen kann, die Ziele Ihres
+Unternehmens zu erreichen.
+
+Ich freue mich darauf, Ihnen in einem persönlichen Gespräch mehr über meine
+Motivation und Qualifikationen zu berichten. Vielen Dank für Ihre Zeit und
+Berücksichtigung meiner Bewerbung.
+
+Mit freundlichen Grüßen,
+
+[Dein Name]
